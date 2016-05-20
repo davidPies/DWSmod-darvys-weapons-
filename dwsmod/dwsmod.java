@@ -48,7 +48,7 @@ public void preInit(FMLPreInitializationEvent event){
   //item2 = new item2();
   //item3 = new item3();
   //render1 = new render1();
-  entity1 = new entity1(null, null);
+  //entity1 = new entity1(null, null);
   sounds = new sounds(null);
   //model1 = new model1();
 }
