@@ -1,4 +1,4 @@
-package threedprojectiles;
+package dwsmod;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
