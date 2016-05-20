@@ -7,14 +7,14 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 public class ClientProxy extends CommonProxy {
 
     public void preInit(FMLPreInitializationEvent e) {
-    super(e);
+    super.preInit(e);
     }
 
     public void init(FMLInitializationEvent e) {
-    super(e);
+    super.init(e);
     }
 
     public void postInit(FMLPostInitializationEvent e) {
-    super(e);
+    super.postInit(e);
     }
 }
