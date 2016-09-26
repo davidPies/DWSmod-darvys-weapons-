@@ -36,7 +36,7 @@ public static render1 render1;
 @Instance("wheatycraft")
 public static wheatycraft instance = new wheatycraft();
 
-@SidedProxy(clientSide = "dwsmod.ClientProxy", serverSide = "dwsmod.ServerProxy")
+@SidedProxy(clientSide = "wheatycraft.client", serverSide = "wheatycraft.server")
 public static CommonProxy proxy;
 
 @EventHandler
